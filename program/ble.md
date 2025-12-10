@@ -10,7 +10,7 @@
 
 <img width="400" src="./ble.png">
 
-プロジェクト： https://makecode.microbit.org/_2UD2rWKFfPve
+プロジェクト： https://makecode.microbit.org/_DdxTCoW2DU1s
 
 ## 作り方
 
